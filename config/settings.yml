@@ -22,3 +22,5 @@ plugins:
     secret: true
   ldap_filter:
     default: ''
+  ldap_message:
+    default: 'Log in with your LDAP credentials'
